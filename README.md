@@ -1,5 +1,5 @@
 # edd-trusted-reviews
-Add support for Trusted Reviews to Easy Digital Downloads
+Add support for TrustedSite Reviews to Easy Digital Downloads
 
 ## Step 1
 Go to wp-content/plugins/easy-digital-downloads/templates/shortcode-reciept.php
