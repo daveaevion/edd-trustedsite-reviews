@@ -1,4 +1,4 @@
-# edd-trustedsite-reviews
+# edd-trusted-site-reviews
 Add support for TrustedSite Reviews to Easy Digital Downloads
 
 ## Step 1
